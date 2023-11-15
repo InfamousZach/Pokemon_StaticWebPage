@@ -2,7 +2,7 @@
 body {
     font-size: 67.5%;
     font-family: Tahoma, Geneva, sans-serif;
-    background: #39150C url(img/paper_1332008.jpg) no-repeat fixed top center;
+    background: #39150C url(Images/pika_Picture.jpg) no-repeat fixed top center;
     padding: 0;
     margin: 0;
     -webkit-background-size: 100% 100%;
@@ -67,8 +67,8 @@ hr {
 header {
     padding: 2.5em 0 0.5em;
     margin: 0 0 2.0em;
-    background: #39150C url(img/bg_cheeses_lg_2600w.jpg) center 0px;
-}
+    background: burlywood;
+} 
 header h1 {
     font-family: "Times New Roman", Times, serif;
     color: #745b2f;
@@ -180,8 +180,9 @@ section div.panel{
     border: #ccc solid 1px;
     border-radius: 0.6em;
 }
-section div.panel img.cheeseType {
-    width: 100%;
+
+section div.panel img.pokemon {
+    width: 100%; 
 } 
 
 footer {
